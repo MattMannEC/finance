@@ -1,6 +1,7 @@
 *.h5
 *.csv
 *.png
+*.zip
 trial.json
 tuner*.json
 build_config.json
